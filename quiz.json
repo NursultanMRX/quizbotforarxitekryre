@@ -1,0 +1,1972 @@
+[
+    {
+        "question": "Olti sathli kompyuterlarning nolinchi sathi qanday nomlanadi?",
+        "options": [
+            "raqamli mantiqiy sath",
+            "mikroarxitektura sathi",
+            "buyruqlar to‘plami arxitekturasi sathi",
+            "operatsion tizim sathi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Olti sathli kompyuterlarning birinchi sathi qanday nomlanadi?",
+        "options": [
+            "mikroarxitektura sathi",
+            "raqamli mantiqiy sath",
+            "buyruqlar to‘plami arxitekturasi sathi",
+            "operatsion tizim sathi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Olti sathli kompyuterlarning ikkinchi sathi qanday nomlanadi?",
+        "options": [
+            "buyruqlar to‘plami arxitekturasi sathi",
+            "mikroarxitektura sathi",
+            "assembler sathi",
+            "amaliy tillar dasturchilari sathi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Olti sathli kompyuterlarning uchinchi sathi qanday nomlanadi?",
+        "options": [
+            "operatsion tizim sathi",
+            "amaliy tillar dasturchilari sathi",
+            "buyruqlar to‘plami arxitekturasi sathi",
+            "mikroarxitektura sathi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Olti sathli kompyuterlarning to‘rtinchi sathi qanday nomlanadi?",
+        "options": [
+            "assembler sathi",
+            "mikroarxitektura sathi",
+            "buyruqlar to‘plami arxitekturasi sathi",
+            "operatsion tizim sathi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Olti sathli kompyuterlarning beshinchi sathi qanday nomlanadi?",
+        "options": [
+            "amaliy tillar dasturchilari sathi",
+            "mikroarxitektura sathi",
+            "buyruqlar to‘plami arxitekturasi sathi",
+            "assembler sathi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bir bitli xotira elementi deganda nima tushuniladi?",
+        "options": [
+            "trigger",
+            "registr",
+            "AND-elementi",
+            "NOT-elementi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter xotirasini iyerarxik ko‘rinishda tashkil yetishda, iyerarxiyaning eng yuqori qismida joylashgan xotirani ko‘rsating.",
+        "options": [
+            "ichki registrlar",
+            "kesh xotira",
+            "asosiy xotira",
+            "magnitli disk"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter xotirasini iyerarxik ko‘rinishda tashkil yetishda, iyerarxiyaning ikkinchi qatorida joylashgan xotirani ko‘rsating.",
+        "options": [
+            "kesh xotira",
+            "ichki registrlar",
+            "asosiy xotira",
+            "magnitli disk"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter xotirasini iyerarxik ko‘rinishda tashkil yetishda, iyerarxiyaning uchinchi qatorida joylashgan xotirani ko‘rsating.",
+        "options": [
+            "asosiy xotira",
+            "ichki registrlar",
+            "kesh xotira",
+            "magnitli disk"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter xotirasini iyerarxik ko‘rinishda tashkil yetishda, iyerarxiyaning to‘rtinchi qatorida joylashgan xotirani ko‘rsating.",
+        "options": [
+            "magnitli disk",
+            "ichki registrlar",
+            "asosiy xotira",
+            "kesh xotira"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter xotirasini iyerarxik ko‘rinishda tashkil yetishda, iyerarxiyaning beshinchi qatorida joylashgan xotirani ko‘rsating.",
+        "options": [
+            "optik disk",
+            "ichki registrlar",
+            "asosiy xotira",
+            "magnitli disk"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ma’lumotlarni ketma-ket uzatuvchi universal shinani ko‘rsating.",
+        "options": [
+            "USB",
+            "ISA",
+            "EISA",
+            "PCI"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessorning IP yoki EIP registri deganda qanday registr tushuniladi?",
+        "options": [
+            "buyruqlarni ko‘rsatuvchi registr",
+            "bayroqlar registri",
+            "segment registri",
+            "birinchi operandaning registri"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "SF yoki EFLAGS registri deganda qaysi registr tushuniladi?",
+        "options": [
+            "bayroqlar registri",
+            "buyruqlar sanagichi registri",
+            "buyruqlar ko‘rsatgichi",
+            "akkumulyator"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "CS registri deganda qaysi registr tushuniladi?",
+        "options": [
+            "kodlar yoziladigan segment registri",
+            "ma’lumotlar yoziladigan segment registri",
+            "stek registri",
+            "qo‘shimcha segment registri"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Umumiy maqsadlar uchun mo‘ljallangan registrlarni ko‘rsating.",
+        "options": [
+            "AX, EAX",
+            "SI, ESI",
+            "DI, EDI",
+            "SP, ESP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Pentium 4 protsessori tarkibida nechta tranzistor bor?",
+        "options": [
+            "42 000 000",
+            "29 000 000",
+            "9 500",
+            "550 000"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Pentium 4 protsessori mikroarxitekturasi qanday nomlanadi?",
+        "options": [
+            "NetBurst",
+            "P6",
+            "P9",
+            "Version 9 SPARC"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Pentium 4 protsessori mikrosxemasi nechta chiqish oyoqchalariga ega?",
+        "options": [
+            "478",
+            "1368",
+            "578",
+            "600"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "UltraSPARC III protsessori mikrosxemasi nechta chiqish oyoqchalariga ega?",
+        "options": [
+            "1368",
+            "478",
+            "578",
+            "600"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "To‘liq buyruqlar to‘plamiga ega kompyuter qanday nomlanadi?",
+        "options": [
+            "CISC",
+            "RISC",
+            "P6",
+            "MIPS"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qisqartirilgan buyruqlar to‘plamiga ega kompyuter qanday nomlanadi?",
+        "options": [
+            "RISC",
+            "CISC",
+            "P6",
+            "MIPS"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining birinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "RS yordamida bajarilishi kerak bo‘lgan buyruq tanlab olinadi",
+            "RS-ning qiymati orttiriladi",
+            "buyruq dekodlanadi",
+            "buyruqni bajarish uchun kerak bo‘ladigan ma’lumotlar xotiradan yoki registrlardan tanlab olinadi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining ikkinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "RS-ning qiymati orttiriladi",
+            "RS yordamida bajarilishi kerak bo‘lgan buyruq tanlab olinadi",
+            "buyruq dekodlanadi",
+            "buyruq bajariladi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining uchinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "buyruq dekodlanadi",
+            "RS yordamida bajarilishi kerak bo‘lgan buyruq tanlab olinadi",
+            "buyruq bajariladi",
+            "RS-ning qiymati orttiriladi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining to‘rtinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "buyruqni bajarish uchun kerak bo‘ladigan ma’lumotlar xotiradan yoki registrlardan tanlab olinadi",
+            "RS-ning qiymati orttiriladi",
+            "RS yordamida bajarilishi kerak bo‘lgan buyruq tanlab olinadi",
+            "natijalarni xotiraga yoki registrlarga yozish"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining beshinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "buyruq bajariladi",
+            "natijalarni xotiraga yoki registrlarga yozish",
+            "RS-ning qiymati ortiriladi",
+            "RS yordamida bajarilishi kerak bo‘lgan buyruq tanlab olinadi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining oltinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "natijalarni xotiraga yoki registrlarga yozish",
+            "RS-ning qiymati orttiriladi",
+            "keyingi buyruqni bajarish tsikliga o‘tish",
+            "buyruq bajariladi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining yettinchi bosqichida nima amalga oshiriladi?",
+        "options": [
+            "keyingi buyruqni bajarish tsikliga o‘tish",
+            "RS-ning qiymati orttiriladi",
+            "buyruq bajariladi",
+            "natijalarni xotiraga yoki registrlarga yozish"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor sikli nechta bosqichidan iborat?",
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining qaysi bosqichida buyruqni bajarish amalga oshiriladi?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining qaysi bosqichida buyruqni tanlab olish amalga oshiriladi?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining qaysi bosqichida buyruqni dekodlash amalga oshiriladi?",
+        "options": [
+            "3",
+            "2",
+            "5",
+            "4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor siklining qaysi bosqichida natijalarini xotiraga yoki registrlarga yozish amalga oshiriladi?",
+        "options": [
+            "6",
+            "7",
+            "3",
+            "4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Core i7 protsessorida necha sathli kesh qo‘llaniladi?",
+        "options": [
+            "3 sathli kesh",
+            "1 sathli kesh",
+            "4 sathli kesh",
+            "2 sathli kesh"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Core i7 protsessorlaridagi yadrolar sonini ko‘rsating?",
+        "options": [
+            "ko‘p",
+            "3",
+            "2",
+            "1"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Keltirilganlarning qaysi biri Fon Neyman printsiplariga to‘g‘ri keladi?",
+        "options": [
+            "ikkilik sanoq sistemasini qo‘llash",
+            "sakkizlik sanoq sistemasini",
+            "o‘nlik sanoq sistemasini",
+            "o‘n oltilik sanoq sistemasini"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Keltirilganlarning qaysi biri Fon Neyman printsiplariga to‘g‘ri keladi?",
+        "options": [
+            "dastur yordamida boshqarish",
+            "avtomatik ravishda boshqarish",
+            "avtomatlashtirilgan boshqarish",
+            "qo‘lda boshqarish"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Keltirilganlarning qaysi biri Fon Neyman printsiplariga to‘g‘ri keladi?",
+        "options": [
+            "hotirani ham ma’lumotlarni, ham dasturlarni saqlashda qo‘llash",
+            "hotirani  ma’lumotlarni saqlashda qo‘llash",
+            "hotirani dasturlarni saqlashda qo‘llash",
+            "hotirani algoritmlarni saqlashda qo‘llash"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Keltirilganlarning qaysi biri Fon Neyman printsiplariga to‘g‘ri keladi?",
+        "options": [
+            "hotira yacheykalari ketma-ket keluvchi adreslarga ega”",
+            "hotira yacheykalari ketma-ket bo‘lmagan adreslarga ega”",
+            "hotira yacheykalari hisoblanadigan adreslarga ega”",
+            "hotira yacheykalari ixtiyoriy tarzda keladigan  adreslarga ega"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Keltirilganlarning qaysi biri Fon Neyman printsiplariga to‘g‘ri keladi?",
+        "options": [
+            "dasturni bajarishda shartli o‘tish imkoniyati",
+            "dasturni bajarishda to‘g‘ri tartibda o‘tish imkoniyati",
+            "dasturni bajarishda teskari tartibda o‘tish imkoniyati",
+            "dasturni bajarishda ixtiyoriy tartibda o‘tish imkoniyati"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "RISC qisqartmasi nimani anglatadi?",
+        "options": [
+            "Qisqartirilgan buyruqlar to‘plamiga ega kompyuter",
+            "Magnitli disklar asosida qurilgan, ma’lumotlarni tezkor kiritish-chiqarish qurilmasi",
+            "Ulanish nuqtalari ikki tomonda joylashgan xotira moduli",
+            "Tarmoq interfeysining qurilmasi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "CISC qisqartmasi nimani anglatadi?",
+        "options": [
+            "To‘liq buyruqlar to‘plamiga ega kompyuter",
+            "Magnitli disklar asosida qurilgan, ma’lumotlarni tezkor kiritish-chiqarish qurilmasi",
+            "Ulanish nuqtalari ikki tomonda joylashgan xotira moduli",
+            "Tarmoq interfeysining qurilmasi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuterning minimal tarkibiga nimalar kiradi?",
+        "options": [
+            "monitor, tizimli blok, klaviatura",
+            "vinchester, «sichqoncha», protsessor",
+            "printer, klaviatura, disketa",
+            "tizimli blok, skaner, monitor"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Boshqarish shinasi nima uchun mo‘ljallangan?",
+        "options": [
+            "boshqarish signallarini uzatish uchun",
+            "protsessor murojaat qilayotgan tashqi qurilmalarga, xotira adresini uzatish uchun",
+            "ishlanayotgan axborotni uzatish uchun",
+            "protsessordan kelayotgan axborotlarni, qurilmalar ishini boshqaruvchi mos signallariga o‘zgartirish uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ma’lumotlar shinasi nima uchun mo‘ljallangan?",
+        "options": [
+            "ishlanayotgan axborotni uzatish uchun",
+            "protsessor murojaat qilayotgan tashqi qurilmalarga, xotira adresini uzatish uchun",
+            "boshqarish signallarini uzatish uchun",
+            "protsessordan kelayotgan axborotlarni, qurilmalar ishini boshqaruvchi mos signallariga o‘zgartirish uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Videoadapterning ko‘rsata olish imkoniyati deganda nima tushiniladi?",
+        "options": [
+            "gorizantal va vertikal bo‘ylab chiqarib bera olishi mumkin bo‘lgan nuqtalarining soni",
+            "ekranning diagonal bo‘yicha o‘lchami",
+            "lyuminofor donasining o‘lchami",
+            "ekrandagi tasvirning xajmini proportsional ravishda kichraytirishi/kengaytirishi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Vinchester nima uchun mo‘ljallangan?",
+        "options": [
+            "Ma’lumotlarni doimiy saqlash uchun",
+            "Tashqi qurilmalarni ulash uchun",
+            "Berilgan dastur asosida kompyuterni boshqarish uchun",
+            "Operativ hotirada ma’lumotni saqlash uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Modem qanday vazifani bajaradi?",
+        "options": [
+            "Analogli signalni raqamli signalga va raqamli signalni analogli signalga  aylantirish uchunuzgartiradi.",
+            "Ikkilik kodini analog signalga o‘zgartiradi",
+            "Analogli signalni ikkilik kodga o‘zgartiradi",
+            "Analogli signalni kuchaytirish uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuterning ish samaradorligi nimaga bog‘liq?",
+        "options": [
+            "Protsessor chastotasiga",
+            "protsessor kuchlanishiga",
+            "Klavishalarning tez ishlashiga",
+            "Kommunikatsiya tezligiga bog‘liq"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Takt chastotasining o‘lchov birligi nima?",
+        "options": [
+            "MGts",
+            "Mbayt",
+            "Kbayt",
+            "Bit"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "XX asrning 40 yillarida hisoblash mashinalarining ishlash printsiplari kim tomonidan tavsiflangan?",
+        "options": [
+            "Jon Fon Neyman tomonidan",
+            "MicroSoft kompaniyasi hodimlari tomonidan",
+            "Bill Geyts tomonidan",
+            "Klod SHen tomonidan"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "CISC qanday arxitektura turi hisoblanadi?",
+        "options": [
+            "To'liq buyruqlar to'plami bilan",
+            "Qisqartirilgan ko'rsatmalar to'plami",
+            "Parallel ishlov berish uchun ko'rsatmalar to'plami",
+            "Ma'lumot va buyruqlar to'plami"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "RISC arxitekturasining qanday turi?",
+        "options": [
+            "Qisqartirilgan ko'rsatmalar to'plami",
+            "To'liq buyruqlar to'plami",
+            "Parallel ko'rsatmalar to'plami",
+            "Ma'lumot va buyruqlar to'plami"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ko'p protsessorli tizimlarda xotira qanday tashkil etilgan?",
+        "options": [
+            "Taqsimlangan va umumiy xotira",
+            "Taqsimlanmagan va umumiy xotira",
+            "Umumiy va kesh xotirasi",
+            "Doimiy va tez xotira"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Umumiy xotiraga ega UMA multiprotsessorli tizimlarining turlarini belgilang",
+        "options": [
+            "SMP, PVP",
+            "Klasterlar, MPPlar",
+            "NCC-NUMA, CC-NUMA, COMA",
+            "SMP, MPP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "SMP xotira va PVP bilan ko'p protsessorli tizim qanday?",
+        "options": [
+            "umumiy xotira bilan",
+            "Tarqalgan xotira bilan",
+            "kesh xotirasi bilan",
+            "Doimiy xotira bilan"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Taqsimlangan xotira NUMA multiprotsessorli tizim turlarini belgilang?",
+        "options": [
+            "NCC-NUMA, CC-NUMA, COMA",
+            "Klasterlar, MPPlar",
+            "SMP, PVP",
+            "SMP, MPP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ko'p kompyuterli tizimlarning turlarini ko'rsating?",
+        "options": [
+            "Klasterlar, MPPlar",
+            "NCC-NUMA, CC-NUMA, COMA",
+            "SMP, PVP",
+            "SMP, MPP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Klasterlar va MPPlar qanday turdagi tizimlardir?",
+        "options": [
+            "Ko'p kompyuter",
+            "Ko'p protsessor",
+            "Multimedia tizimlari",
+            "Ko'p oqimli tizimlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Buyruqlar darajasidagi parallelizm nima?",
+        "options": [
+            "Bir nechta buyruqlarning bir qismini bir vaqtning o'zida bajarishning potentsial imkoniyati",
+            "Buyruqlarni ketma-ket bajarish imkoniyati",
+            "Buyruqlarni yuqori tezlikda bajaring",
+            "Skriptlarni bajarish"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Buyruqlar bajarilishining potentsial o'zaro kelishishi nima deb ataladi?",
+        "options": [
+            "buyruq darajasidagi parallellik",
+            "qurilma darajasidagi parallellik",
+            "kesh darajasida parallelizm",
+            "ROM darajasida parallellik"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Buyruqlar darajasidagi parallelizmning g'oyasi nima?",
+        "options": [
+            "konveyer g'oyasi bo'yicha",
+            "parallellik g'oyasi haqida",
+            "oqimlarni grafik qayta ishlash g'oyalari bo'yicha",
+            "keyinchalik qayta ishlash g'oyalari haqida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Superskalar protsessor nechta funktsiya blokiga ega",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qaysi protsessorlar NetBurst mikroarxitekturasidan foydalanadi?",
+        "options": [
+            "Pentium 4",
+            "Pentium 3",
+            "Pentium 2",
+            "Pentium 1"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Dekompozitsiya nima?",
+        "options": [
+            "Bu vazifani segmentlarga bo'lish uchun ishlov berishni anglatadi",
+            "Bu parallel ishlov berish masalasi",
+            "Ushbu ishlov berish vazifasi 2 ga bo'linadi",
+            "Parallel ishlov berishdan foydalangan holda bu misol algoritmi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Core i7 protsessorida nechta kesh darajasi mavjud?",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "5"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qanday turdagi xotira operativ xotira deb ataladi?",
+        "options": [
+            "tasodifiy kirish xotira qurilmasi (RAM)",
+            "doimiy xotira qurilmasi",
+            "qo'shimcha saqlash qurilmasi",
+            "flesh xotira qurilmasi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Intel Core Duo protsessorining vazifasi nima?",
+        "options": [
+            "Bitta chipga joylashtirilgan ikkita yadroli protsessor",
+            "64 bitli 4 yadroli protsessor",
+            "integratsiyalangan grafik protsessor",
+            "juda katta ko'rsatmalar to'plamiga ega protsessor"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Pentium II, Pentium Pro va Pentium III protsessorlari qanday mikroarxitekturaga asoslangan?",
+        "options": [
+            "Mikroarxitektura P6",
+            "NetBurst mikroarxitekturasi",
+            "giperplaziya texnologiyasi",
+            "Mikroarxitektura P8"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Nahalem mikroarxitekturasi qaysi protsessorga tegishli?",
+        "options": [
+            "Intel Core i7",
+            "Intel Pentium 4",
+            "Intel Pentium 3",
+            "Intel Core Duo"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "2011-yilda Intel Core i7 protsessorida qanday arxitektura ishlatilgan?",
+        "options": [
+            "Sandy-Bridge",
+            "Nahalem",
+            "P6",
+            "NetBurst"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Intel Core i7 protsessorida nechta bit bor?",
+        "options": [
+            "64",
+            "32",
+            "16",
+            "8"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "UltraSPARC III protsessorini qaysi kompaniya ishlab chiqaradi?",
+        "options": [
+            "SUN",
+            "Intel",
+            "AMD",
+            "IBM"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "UltraSPARC III protsessorida nechta quvur liniyasi mavjud?",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "12"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Shinalar kengligi deganda nima tushuniladi?",
+        "options": [
+            "Bir soatda o'tadigan bitlar soni",
+            "Bir soniyada o'tadigan bitlar soni",
+            "xotira hajmi",
+            "Umumiy xotira hajmi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Pentium asosidagi kompyuterlarning asosiy xotirasidagi baytlar qanday tartibda joylashgan?",
+        "options": [
+            "teskari tartibda",
+            "to'g'ri tartibda",
+            "chapdan o'ngga",
+            "Yuqoriga"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "SPARC protsessorlari oilasiga asoslangan kompyuterlarning asosiy xotirasida baytlar qanday tartiblangan?",
+        "options": [
+            "to'g'ri tartibda",
+            "teskari tartibda",
+            "o'ngdan chapga",
+            "yuqoriga"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Asosiy xotirada to'g'ri tartibda baytlarga ega bo'lgan kompyuter protsessorini ko'rsating.",
+        "options": [
+            "UltraSPARC III",
+            "Pentium 4",
+            "8051",
+            "SIMM"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Asosiy xotirada teskari tartibda baytlarga ega bo'lgan kompyuter protsessoriga ishora qiling.",
+        "options": [
+            "Pentium 4",
+            "UltraSPARC III",
+            "8051",
+            "SIMM"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Xotira panelining bitta tomonida joylashgan xotira modullarining nomlari qanday?",
+        "options": [
+            "SIMM",
+            "DIMM",
+            "SISD",
+            "RISC"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Xotira panelining ikkala tomonida joylashgan xotira modullari qanday nomlanadi?",
+        "options": [
+            "DIMM",
+            "SIMM",
+            "CISC",
+            "RISC"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "D-flip-floplar asosida RAM qurilmasini belgilang.",
+        "options": [
+            "Statik xotira (SRAM)",
+            "dinamik tasodifiy kirish xotirasi (DRAM)",
+            "FPM dinamik xotira qurilmasi",
+            "EDO dinamik xotira qurilmasi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ma'lumotni o'chirish va qayta yozish mumkin bo'lgan dasturlashtiriladigan faqat o'qish uchun xotira qurilmasini belgilang.",
+        "options": [
+            "EPROM",
+            "SIMS",
+            "ROM",
+            "DRAM"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter tashqi komponentlar bilan bog'lanishi mumkin bo'lgan shinani belgilang.",
+        "options": [
+            "PCI",
+            "ISA",
+            "EISA",
+            "AGP"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ma'lumotlarni ketma-ket uzatuvchi universal shinani belgilang.",
+        "options": [
+            "USB",
+            "ISA",
+            "EISA",
+            "PCI"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Monitorda rang yaratish uchun qanday ranglar ishlatiladi?",
+        "options": [
+            "qizil, ko'k, yashil",
+            "qora, oq, ko'k",
+            "sariq, qizil, oq",
+            "yashil, qora, sariq"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "USB qisqartmasi nimani anglatadi?",
+        "options": [
+            "universal seriyal bus",
+            "Sanoat standarti me'moriy bus",
+            "Tez grafik port busi",
+            "Tarmoq interfeysi qurilmasi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Dasturning har bir satrini tahlil qiladigan va darhol ishga tushadigan tizim dasturi nima?",
+        "options": [
+            "Tarjimon",
+            "Nosozliklarni tuzatuvchi",
+            "Tarjimon",
+            "Kompilyator"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Butun dasturni tahlil qilib, keyin uni bajarish uchun kompyuter xotirasiga yozuvchi tizimli dastur qanday nomlanadi?",
+        "options": [
+            "Kompilyator",
+            "Nosozliklarni tuzatuvchi",
+            "Tarjimon",
+            "Sozlagich"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qaysi qurilma tashqi qurilma va shina o'rtasidagi aloqani o'rnatadi?",
+        "options": [
+            "boshqaruvchi",
+            "Vinchester",
+            "avtomobil yo'llari",
+            "ALU"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Vinchester nima uchun qo’llaniladi?",
+        "options": [
+            "Ma'lumotlar va dasturlarni doimiy saqlash uchun",
+            "Tashqi qurilmalarni ulash uchun",
+            "Kompyuter dasturini boshqarish uchun",
+            "Ma'lumotlar va dasturlarni onlayn saqlash uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Modemni vazifasi nima?",
+        "options": [
+            "Signalni qabul qilish va uzatish uchun aylantirish.",
+            "Ikkilik kodni analog signalga aylantiradi",
+            "Analog signalni ikkilik kodga aylantiradi",
+            "Analog signalni kuchaytirish uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Shaxsiy kompyuterlar uchun shinalarning vazifasi nima?",
+        "options": [
+            "Kompyuter komponentlari va qurilmalarini ulash",
+            "Kompyuterning radiatsiya signallarini yo'q qilish",
+            "Kompyuterning termal nurlanishidan chiqarib tashlash",
+            "Kompyuter uchun umumiy quvvatni ta'minlaydi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter yoqilganda dastlabki sinov dasturi qayerda joylashgan bo’ladi?",
+        "options": [
+            "BIOS chipida",
+            "RAMda",
+            "tashqi xotirada",
+            "protsessor registrlarida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuterda ma'lumotlar qanday ko'rinadi?",
+        "options": [
+            "ikkilik shaklda",
+            "Belgilar va raqamlar ko'rinishida",
+            "Matn shaklida",
+            "o'nlik sanoq tizim"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "OpenMP texnologiyasi bilan qanday tizimlar dasturlashtirilgan?",
+        "options": [
+            "Umumiy xotiraga ega tizimlar uchun",
+            "Tarqalgan tizimlar uchun",
+            "Haqiqiy vaqt tizimlari uchun",
+            "Ma'lumotlar bazasini boshqarish tizimlari uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Umumiy xotira tizimlari uchun mo'ljallangan parallelizatsiya kutubxonasini belgilang.",
+        "options": [
+            "OpenMp",
+            "TBB",
+            "CUDA",
+            "MPI"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor yadrosiga eng yaqin keshga ishora qiling",
+        "options": [
+            "L1",
+            "L2",
+            "L3",
+            "L4"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "L1 keshining nechta turi mavjud?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "L1 keshining 2 turini tanlang",
+        "options": [
+            "Ma'lumotlar va buyruqlar",
+            "Ma'lumotlar va manzillar",
+            "Buyruqlar va manzillar",
+            "Manzillar va teglar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Virtual yadroli protsessorlarda ishlatiladigan texnologiyani belgilang.",
+        "options": [
+            "Hyper Threading",
+            "PPL",
+            "CUDA",
+            "MPI"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Hisoblash tezligiga ijobiy ta'sir ko'rsatadigan arxitekturani ko'rsating.",
+        "options": [
+            "Konveyer",
+            "PPL",
+            "UMA",
+            "SISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Amdal qonunining talqini qayerda?",
+        "options": [
+            "Tezlik (samaradorlik) yadrolar soniga bog'liq",
+            "avlod protsessor samaradorligi",
+            "Parallel ishlov berishning arxitekturaga bog'liqligi",
+            "Hisoblash samaradorligining kesh xotirasiga bog'liqligi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Tezlik (samaradorlik) yadrolar soniga bog'liq degan qonunni aniqlagan olimning ismini toping.",
+        "options": [
+            "Amdal",
+            "fon Neumann",
+            "Flinn",
+            "Gustafson"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ish samaradorligini oshirish uchun ultra tez xotirani belgilang",
+        "options": [
+            "Kesh xotirasi",
+            "SDD xotirasi",
+            "ROM",
+            "Ram"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Parallel ishlov berish arxitekturasini tanlang",
+        "options": [
+            "MIMD",
+            "SIMD",
+            "SISD",
+            "MISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Seriyali ma'lumotlarni qayta ishlash uchun to'g'ri arxitekturani tanlang",
+        "options": [
+            "SISD",
+            "SIMD",
+            "MIMD",
+            "MISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Buyruqlarni parallel qayta ishlash uchun mos arxitekturani tanlang.",
+        "options": [
+            "MIMD",
+            "SIMD",
+            "SISD",
+            "MISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "AMD protsessorlarining kamchiliklarini to'g'ri ko'rsatadigan javobni tanlang",
+        "options": [
+            "Juda yuqori qizib ketish",
+            "Yuqori narx",
+            "Juda sekin grafik hisoblar",
+            "Oyoqlar juda katta"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "OpenMP kutubxonasi bilan bog'liq buyruqlarni qanday ishlatish kerak?",
+        "options": [
+            "pragma",
+            "omp",
+            "parallel",
+            "ip"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Hisoblash oqimida nechta bosqich amalga oshiriladi?",
+        "options": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Simmetrik multiprosessing nima?",
+        "options": [
+            "bir xil turdagi protsessorlarning integratsiyalashgan tizimi",
+            "Bir xil xotira elementlarining integratsiyalashgan tizimi",
+            "Bir xil kesh elementlarining integratsiyalashgan tizimi.",
+            "Shu kabi tezkor xotira elementlarining integratsiyalashgan tizimi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bir turdagi protsessorlarning birlashtirilgan tizimi qanday nomlanadi?",
+        "options": [
+            "Simmetrik ko'p ishlov berish",
+            "Hyper Threading",
+            "VLIW arxitekturasi",
+            "CUDA"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Hyper Threading texnologiyasidan maqsad nima?",
+        "options": [
+            "bir nechta iplarni yaratish uchun",
+            "bir nechta xotira manzillarini yaratish uchun",
+            "Bir xil kesh elementlarining integratsiyalashgan tizimi.",
+            "Shu kabi tezkor xotira elementlarining integratsiyalashgan tizimi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Intel protsessorlarida qanday hisoblash texnologiyalari keng qo'llaniladi?",
+        "options": [
+            "Hyper Threading",
+            "NUMA",
+            "CUDA",
+            "MPI"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "VLIW arxitekturasining asosiy vazifasi nimadan iborat?",
+        "options": [
+            "Uzoq buyruq so'zi uzunligi",
+            "Qisqa jamoa hajmi",
+            "Qisqa o'lchamdagi ma'lumotlar",
+            "Uzoq ma'lumotlar hajmi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "VLIW arxitekturasida vazifa qaysi bosqichda shakllanadi?",
+        "options": [
+            "Kompilyatsiya vaqtida",
+            "U apparat darajasiga yetganda",
+            "Operatsion uchinchi daraja",
+            "Dasturlash paytida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "OpenMP kutubxonasida sikllarni parallel taqsimlash qaysi buyruq asosida amalga oshiriladi?",
+        "options": [
+            "pragma omp parallel uchun",
+            "pragma omp parallel qil",
+            "pragma omp parallel esa",
+            "pragma _ om"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Superkompyuterlarning hisoblash tezligi uchun o'lchov birligi?",
+        "options": [
+            "FLOPS",
+            "MIPS",
+            "Mbit/s",
+            "bit"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "TOP - 500 tizimi nima?",
+        "options": [
+            "Kompyuter tizimining tezligini baholaydi",
+            "Kompyuterlar narxini hisoblab chiqadi",
+            "Kompyuterlardan ishlab chiqarishni taxmin qiladi",
+            "baholash kompyuterlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Vektorli quvurli kompyuter qaysi arxitekturaga tegishli?",
+        "options": [
+            "SIMD",
+            "MIMD",
+            "SISD",
+            "MISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ko'p protsessorli tizimlar qanday arxitekturaga tegishli?",
+        "options": [
+            "MIMD",
+            "SIMD",
+            "SISD",
+            "MISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "L1 keshi qayerda joylashgan?",
+        "options": [
+            "protsessor ichida",
+            "tasodifiy kirish RAMda",
+            "ROMda",
+            "I/U tizimida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor ichida joylashgan kesh xotirasini belgilang",
+        "options": [
+            "L1, L2, L3",
+            "L1, L2",
+            "L1",
+            "L2, L3"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "L 2 kesh xotirasi qayerda joylashgan?",
+        "options": [
+            "protsessor ichida",
+            "tasodifiy kirish RAMda",
+            "doimiy xotirada",
+            "I/U tizimida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "L 3 keshi qayerda joylashgan?",
+        "options": [
+            "protsessor ichida",
+            "tasodifiy kirish RAMda",
+            "doimiy xotirada",
+            "I/U tizimida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessorlardagi vazifalarni parallellashtirish texnologiyasini ko'rsating?",
+        "options": [
+            "Ko'p vazifalarni bajarish",
+            "turbo kuchaytirgich",
+            "Giper Theading",
+            "openmp"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessorlarning “tezlashtirish qobiliyati” deganda qanday texnologiya tushuniladi?",
+        "options": [
+            "turbo kuchaytirgich",
+            "Ko'p vazifalarni bajarish",
+            "Giper Theading",
+            "CUDA"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Nvidia -ning parallel texnologiyasini tanlang",
+        "options": [
+            "CUDA",
+            "TBB",
+            "MPI",
+            "PPL"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "CUDA - bu qaysi kompaniya tomonidan ishlab chiqilgan texnologiya?",
+        "options": [
+            "Nvidia",
+            "AMD",
+            "Intel",
+            "Samsung"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qaysi arxitektura matritsalarni ko'paytirish jarayonlaridan keng foydalanadi?",
+        "options": [
+            "MIMD",
+            "SIMD",
+            "SISD",
+            "MISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "GPU ishlab chiqishda qaysi kompaniyalar yetakchi?",
+        "options": [
+            "AMD, Nvidia",
+            "Intel, AMD",
+            "Samsung, Intel",
+            "Nvidia, Intel, Samsung"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Taqsimlangan tizimlarda keng ko'lamli muammoni hal qilish uchun nima qilinmoqda?",
+        "options": [
+            "vazifa kompyuterlar o'rtasida taqsimlanadi.",
+            "vazifa mashina manzil xotirasi o'rtasida taqsimlanadi",
+            "Vazifaning materiali shinalar o'rtasida taqsimlanadi.",
+            "vazifa dasturchilar o'rtasida taqsimlanadi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qaysi turdagi kompyuter Core i7 protsessoridan foydalanadi?",
+        "options": [
+            "shaxsiy kompyuterlar",
+            "ko'p kompyuterlar",
+            "o'rnatilgan kompyuterlar",
+            "barcha turdagi kompyuterlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Anakartdagi shimoliy ko'prik quyidagilarni qo'llab-quvvatlaydi:",
+        "options": [
+            "Tizim avtobusi, xotira, video adapter",
+            "Qattiq disklar va optik disklar",
+            "Ovoz kartasi va modem",
+            "Klaviaturalar, sichqonchalar, printerlar, skanerlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qaysi kesh darajasi eng tez ishlaydi?",
+        "options": [
+            "Birinchi",
+            "Ikkinchi",
+            "Uchinchisi",
+            "To'rtinchi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor boshqaruv blokining vazifasi nimadan iborat?",
+        "options": [
+            "xotiradan buyruqni yuklaydi va uning shifrini ochadi",
+            "arifmetik-mantiqiy amalni bajaradi",
+            "saqlash ma'lumotlarini yig'ish va ma'lumotlarni qayta ishlash",
+            "tashqi qurilmalarni boshqaradi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessorning arifmetik mantiq birligi qanday vazifani bajaradi?",
+        "options": [
+            "arifmetik-mantiqiy amallarni bajaradi",
+            "xotiradan buyruqni yuklaydi va uning shifrini ochadi",
+            "saqlash ma'lumotlarini yig'ish va ma'lumotlarni qayta ishlash",
+            "tashqi qurilmalarni boshqaradi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Umumiy maqsadli registrlar qanday vazifani bajaradi?",
+        "options": [
+            "operandlarning o'zini yoki natijani yoki ushbu operandlar yoki natijalarga ko'rsatgichlarni saqlang",
+            "buyruqlarni saqlash",
+            "arifmetik-mantiqiy amallarni bajaradi",
+            "tashqi qurilmalarni boshqaradi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "OMAP4430 protsessori qanday kompyuter turi uchun ishlatiladi ?",
+        "options": [
+            "mobil kompyuterlar",
+            "shaxsiy kompyuterlar",
+            "qurilgan kompyuterlar",
+            "barcha turdagi kompyuterlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Pentium protsessorini yaratish uchun qanday turdagi kompyuterlardan foydalaniladi?",
+        "options": [
+            "shaxsiy kompyuterlar",
+            "barcha turdagi kompyuterlar",
+            "ko'p kompyuterlar",
+            "o'rnatilgan kompyuterlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Quyidagilardan qaysi biri fon Neyman tamoyillariga mos keladi?",
+        "options": [
+            "Ikkilik sanoq tizimining qo'llanilishi",
+            "sakkizlik sanoq sistemasi",
+            "o'nlik sanoq tizimi",
+            "o'n oltilik sanoq tizimi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Quyidagilardan qaysi biri fon Neyman tamoyillariga mos keladi?",
+        "options": [
+            "dasturiy ta'minotni boshqarish",
+            "avtomatik boshqaruv",
+            "avtomatlashtirilgan boshqaruv",
+            "qo'lda boshqarish"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "\"Uskuna\" nima?",
+        "options": [
+            "kompyuter texnikasi",
+            "IBM shaxsiy kompyuterlari uchun mo'ljallangan eng mashhur tizim",
+            "yangi dasturlar yaratish imkonini beruvchi tizim",
+            "kompyuterlarning texnik va dasturiy ta’minotini modernizatsiya qilish"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "\"Dasturiy ta'minot \" nima ?",
+        "options": [
+            "kompyuter dasturi",
+            "Plug va Play tizimi",
+            "qulaylik",
+            "Yangi qurilmalarni kompyuterga ulash uchun mo'ljallangan dastur"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Quyidagilardan qaysi biri dasturiy vosita emas?",
+        "options": [
+            "Markaziy protsessor",
+            "Jadval muharriri",
+            "tizim dasturiy ta'minoti",
+            "matn va tasvir muharrirlari"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qaysi qurilma tashqi qurilma va shina o'rtasidagi aloqani o'rnatadi?",
+        "options": [
+            "boshqaruvchi",
+            "Vinchester",
+            "avtomobil yo'llari",
+            "Markaziy protsessor"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Dastlabki kompyuter test dasturi qayerda yozilgan?",
+        "options": [
+            "BIOS chipida",
+            "RAMda",
+            "tashqi xotirada",
+            "protsessor registrlarida"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Shaxsiy kompyuterda ma'lumotlarni qayta ishlash uchun qanday qurilma ishlatiladi?",
+        "options": [
+            "protsessorda",
+            "Adapterda",
+            "Avtobusda",
+            "Klaviaturada"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "1940-yillarda kompyuterlar qanday ishlashini kim tasvirlab bergan?",
+        "options": [
+            "Jon fon Neyman",
+            "MicroSoft xodimlari",
+            "Bill Geyts",
+            "Klod Shen"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter o'chirilganda kompyuterdagi ma'lumotlar qaysi xotiradan yo'q qilinadi?",
+        "options": [
+            "RAMda",
+            "yumshoq diskda",
+            "CDda",
+            "qattiq diskda"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Dastur...?",
+        "options": [
+            "Ma'lumotlarni qayta ishlash jarayonida kompyuter bajaradigan buyruqlar ketma-ketligi.",
+            "Ushbu ma'lumot kompyuter kodiga o'tkaziladi",
+            "Raqamli va matnli ma'lumotlar",
+            "Audio va grafik ma'lumotlar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bu ushbu dastur uchun ma'lumotlarni qayta ishlash qurilmasimi?",
+        "options": [
+            "Markaziy protsessor",
+            "Kirish qurilmasi",
+            "tez xotira",
+            "Qidiruv qurilmasi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Qayta ishlash jarayonida dasturiy ta'minot va ma'lumotlar qayerda joylashgan?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Qattiq disk uchun",
+            "Kesh"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bir soniyadagi tebranishlar soni qanday nomlanadi?",
+        "options": [
+            "Soat chastotasi",
+            "CPU drenaji",
+            "Kesh",
+            "Kompyuter samaradorligi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Vektorli va matritsali ishlov berish tuzilmalariga ega hisoblash tizimlari sinfini aniqlang.",
+        "options": [
+            "SIMD",
+            "SISD",
+            "MISD",
+            "MIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ko'p protsessorli tizimlar qaysi sinfga tegishli ekanligini aniqlang?",
+        "options": [
+            "MIMD",
+            "SISD",
+            "MISD",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bir nechta buyruqlar va bitta ma'lumotlar oqimiga ega sinfni belgilang?",
+        "options": [
+            "MISD",
+            "SISD",
+            "MIMD",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bir nechta buyruqlar va bir nechta ma'lumotlar oqimi bilan sinfni aniqlang?",
+        "options": [
+            "MIMD",
+            "SISD",
+            "MISD",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bitta buyruq va bitta ma'lumot oqimiga ega sinfni belgilang?",
+        "options": [
+            "SISD",
+            "MISD",
+            "MIMD",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Bitta buyruq va bir nechta ma'lumotlar oqimiga ega sinfni belgilang?",
+        "options": [
+            "SIMD",
+            "MISD",
+            "MIMD",
+            "SISD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ko'p kompyuter tizimlari qaysi sinfga tegishli ekanligini aniqlang?",
+        "options": [
+            "MIMD",
+            "SISD",
+            "MISD",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Ko'p protsessorli hisoblash tizimlarini aniqlang?",
+        "options": [
+            "UMA, COMA, NUMA",
+            "MPP, COW",
+            "Vektor, matritsa",
+            "CC-NUMA, COMA, MPP, COW"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuter nima?",
+        "options": [
+            "Ma'lumotlarni qayta ishlash va kerakli natijani olish imkonini beruvchi texnik vositalar to'plami",
+            "Ko'rsatmalar to'plami qurilmasi",
+            "Ma'lumotlarni qayta ishlashni amalga oshiradigan bir yoki bir nechta kompyuterlar, tashqi qurilmalar va dasturlar to'plami",
+            "Foydalanuvchi ehtiyojlarini qondirish uchun mo'ljallangan xususiyatlar va xizmatlarni taqdim etadigan qurilma."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "EHMlarning birinchi avlodi (1-avlod) qaysi davrga tegishli?",
+        "options": [
+            "1950-1960 yillar",
+            "1960-1970 yillar",
+            "1970-1980 yillar",
+            "1980–1990 yillar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "EHMlarning ikkinchi avlodi qaysi davrga to‘g‘ri keladi?",
+        "options": [
+            "1960-1970 yillar",
+            "1950-1960 yillar",
+            "1970-1980 yillar",
+            "1980–1990 yillar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuterlarning uchinchi avlodi qaysi davrga tegishli?",
+        "options": [
+            "1970-1980 yillar",
+            "1950-1960 yillar",
+            "1960-1970 yillar",
+            "1980–1990 yillar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "EHMlarning to‘rtinchi avlodi qaysi davrga tegishli?",
+        "options": [
+            "1980–1990 yillar",
+            "1950-1960 yillar",
+            "1960-1970 yillar",
+            "1970-1980 yillar"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Birinchi kompyuter arxitekturasini yaratgan olimning ismini ayting?",
+        "options": [
+            "fon Neumann",
+            "Amdal",
+            "Flinn",
+            "Gustafson"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Fon Neyman kompyuter arxitekturasining asosiy qismlari neshta?",
+        "options": [
+            "5 ta",
+            "6 ta",
+            "4ta",
+            "3 ta"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Parallel hisoblash tizimlarining to'g'ri ta'rifini ko'rsating?",
+        "options": [
+            "Parallel ravishda ma'lumotlarni qayta ishlaydigan hisoblash asboblari to'plami",
+            "Ma'lumotlarni ketma-ket qayta ishlovchi hisoblash vositalari to'plami",
+            "Hisoblash qurilmalari SISD arxitekturasi asosida ma'lumotlarni qayta ishlash",
+            "Hisoblash qurilmalari MISD arxitekturasi asosida ma'lumotlarni qayta ishlash"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Sinfdagi ko'rsatmalarga va parallel ishlov berish ma'lumotlariga mos keladigan Flynn tasnifi?",
+        "options": [
+            "MIMD",
+            "SISD",
+            "MISD",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Tarqalgan ruxsatga ega xotira arxitekturasini ko'rsating?",
+        "options": [
+            "NUMA",
+            "SISD",
+            "UMA",
+            "SIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Parallel dasturlash uchun maxsus texnologiyalarni belgilang.",
+        "options": [
+            "CUDA",
+            "turbo kuchaytirgich",
+            "Jango",
+            "MIMD"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Tarqalgan xotira hisoblash tizimlari uchun mo'ljallangan parallel dasturlash kutubxonasini tanlang.",
+        "options": [
+            "MPI",
+            "CUDA",
+            "openmp",
+            "C++"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "MPI texnologiyasi qaysi tizimlar uchun mo'ljallangan?",
+        "options": [
+            "Tarqalgan xotira tizimlari",
+            "Umumiy xotira tizimlari",
+            "Haqiqiy vaqt tizimlari uchun",
+            "O'rnatilgan tizimlar uchun"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Grafik axborotni parallel qayta ishlash texnologiyasi ...",
+        "options": [
+            "CUDA",
+            "TBB",
+            "openmp",
+            "MPI"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kesh xotira nima?",
+        "options": [
+            "ma'lumotlar va dasturlarni vaqtincha saqlash uchun protsessor ichidagi o'ta tezkor xotira",
+            "vaqtinchalik ma'lumotlarni saqlash uchun protsessor ichidagi o'ta tezkor xotira",
+            "dasturlarni vaqtincha saqlash uchun protsessor ichidagi o'ta tezkor xotira",
+            "Operatsion tizim ma'lumotlarini saqlaydigan faqat o'qish uchun mo'ljallangan xotira"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "SISD ga mos keltirilgan ta’rifni ko’rsating?",
+        "options": [
+            "SISDan’anaviymonoprotsessorga(FonNeymanarxitekturasi)moskeladi. Bitta ma’lumot oqimi bitta buyruq oqimi bilan qayta ishlanadi yoki bir protsessorli kompyuter , qaysiki dasturdan bitta buyruq oqimi tashkil qilinadigan.",
+            "Har bir buyruq turli xil protsessorlar tomonidan turli xil ma'lumotlarda amalga oshiriladi, ya'ni bir xil ma'lumotlarga ega bo'lgan bir xil turdagi protsessual oqimlarning bir nechta ishlov berish birliklarida bajariladi. Ushbu guruh qatorlarni (massivlar) qayta ishlash mashinalariga bag'ishlangan. Ba'zan vektor protsessorlari ham ushbu guruhning bir qismi sifatida ko'rib chiqilishi mumkin.",
+            "Har bir protsessor turli xil ko'rsatmalar ketma-ketligini bajaradi. ____ kompyuterlarida bitta ma'lumotlar oqimida bir nechta protsessor birliklari ishlaydi.",
+            "Har bir protsessorda alohida dastur mavjud. Har bir dasturdan buyruq oqimi yaratiladi. Har bir buyruq turli xil ma'lumotlar asosida ishlaydi. Ushbu so'nggi mashina turi an'anaviy ko'p protsessorlar guruhini yaratadi. Bir nechta ma'lumot uzatish oqimlarida birnechta protsessor birliklari ishlaydi."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "SIMD ga mos keltirilgan ta’rifni ko’rsating?",
+        "options": [
+            "Har bir buyruq turli xil protsessorlar tomonidan turli xil ma'lumotlarda amalga oshiriladi, ya'ni bir xil ma'lumotlarga ega bo'lgan bir xil turdagi protsessual oqimlarning bir nechta ishlov berish birliklarida bajariladi. Ushbu guruh qatorlarni (massivlar) qayta ishlash mashinalariga bag'ishlangan. Ba'zan vektor protsessorlari ham ushbu guruhning bir qismi sifatida ko'rib chiqilishi mumkin.",
+            "Har bir protsessor turli xil ko'rsatmalar ketma-ketligini bajaradi. ____ kompyuterlarida bitta ma'lumotlar oqimida bir nechta protsessor birliklari ishlaydi.",
+            "Har bir protsessorda alohida dastur mavjud. Har bir dasturdan buyruq oqimi yaratiladi. Har bir buyruq turli xil ma'lumotlar asosida ishlaydi. Ushbu so'nggi mashina turi an'anaviy ko'p protsessorlar guruhini yaratadi. Bir nechta ma'lumot uzatish oqimlarida birnechta protsessor birliklari ishlaydi.",
+            "SISDan’anaviymonoprotsessorga(FonNeymanarxitekturasi)moskeladi. Bitta ma’lumot oqimi bitta buyruq oqimi bilan qayta ishlanadi yoki bir protsessorli kompyuter , qaysiki dasturdan bitta buyruq oqimi tashkil qilinadigan."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "MISD ga mos keltirilgan ta’rifni ko’rsating?",
+        "options": [
+            "Har bir protsessor turli xil ko'rsatmalar ketma-ketligini bajaradi. ____ kompyuterlarida bitta ma'lumotlar oqimida bir nechta protsessor birliklari ishlaydi.",
+            "Har bir protsessorda alohida dastur mavjud. Har bir dasturdan buyruq oqimi yaratiladi. Har bir buyruq turli xil ma'lumotlar asosida ishlaydi. Ushbu so'nggi mashina turi an'anaviy ko'p protsessorlar guruhini yaratadi. Bir nechta ma'lumot uzatish oqimlarida birnechta protsessor birliklari ishlaydi.",
+            "SISDan’anaviymonoprotsessorga(FonNeymanarxitekturasi)moskeladi. Bitta ma’lumot oqimi bitta buyruq oqimi bilan qayta ishlanadi yoki bir protsessorli kompyuter , qaysiki dasturdan bitta buyruq oqimi tashkil qilinadigan.",
+            "Har bir buyruq turli xil protsessorlar tomonidan turli xil ma'lumotlarda amalga oshiriladi, ya'ni bir xil ma'lumotlarga ega bo'lgan bir xil turdagi protsessual oqimlarning bir nechta ishlov berish birliklarida bajariladi. Ushbu guruh qatorlarni (massivlar) qayta ishlash mashinalariga bag'ishlangan. Ba'zan vektor protsessorlari ham ushbu guruhning bir qismi sifatida ko'rib chiqilishi mumkin."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "MIMD ga mos keltirilgan ta’rifni ko’rsating?",
+        "options": [
+            "Har bir protsessorda alohida dastur mavjud. Har bir dasturdan buyruq oqimi yaratiladi. Har bir buyruq turli xil ma'lumotlar asosida ishlaydi. Ushbu so'nggi mashina turi an'anaviy ko'p protsessorlar guruhini yaratadi. Bir nechta ma'lumot uzatish oqimlarida birnechta protsessor birliklari ishlaydi.",
+            "SISDan’anaviymonoprotsessorga(FonNeymanarxitekturasi)moskeladi. Bitta ma’lumot oqimi bitta buyruq oqimi bilan qayta ishlanadi yoki bir protsessorli kompyuter , qaysiki dasturdan bitta buyruq oqimi tashkil qilinadigan.",
+            "Har bir buyruq turli xil protsessorlar tomonidan turli xil ma'lumotlarda amalga oshiriladi, ya'ni bir xil ma'lumotlarga ega bo'lgan bir xil turdagi protsessual oqimlarning bir nechta ishlov berish birliklarida bajariladi. Ushbu guruh qatorlarni (massivlar) qayta ishlash mashinalariga bag'ishlangan. Ba'zan vektor protsessorlari ham ushbu guruhning bir qismi sifatida ko'rib chiqilishi mumkin.",
+            "Har bir protsessor turli xil ko'rsatmalar ketma-ketligini bajaradi. ____ kompyuterlarida bitta ma'lumotlar oqimida bir nechta protsessor birliklari ishlaydi."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Parallel ishlov berishga berilgan qaysi ta'rif to'g'ri?",
+        "options": [
+            "umumiy vazifani alohida qismlarini bajarish uchun ikki yoki undan ko’p protsessor bilan ishlashni usuli. Bunda ko’p protsessorlar orasida bitta vazifani turli qismlarga bo’lish orqali dasturni ishga tushirish vaqtini kamaytiradi.",
+            "ham parallel hisoblash modeli ham dasturlash modeli bo’lib, xotira adresiga qaraganda ma'lumotlar uchun parallel dasturlashdan foydalanishni va xotirada ma'lumotlarni tarkibini qidirish qobiliyatini o'z ichiga oladi.",
+            "real vaqt rejimida ko’plab manbalardan keladigan birnechta ma’lumotlar oqimini tahlil qilish uchun yuqori ko’rsatgichli kompyuter tizimlarda foydalaniladi.",
+            "To’g’ri javob berilmagan"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Assotsiativ ishlov berishga berilgan qaysi ta'rif to'g'ri?",
+        "options": [
+            "ham parallel hisoblash modeli ham dasturlash modeli bo’lib, xotira adresiga qaraganda ma'lumotlar uchun parallel dasturlashdan foydalanishni va xotirada ma'lumotlarni tarkibini qidirish qobiliyatini o'z ichiga oladi.",
+            "umumiy vazifani alohida qismlarini bajarish uchun ikki yoki undan ko’p protsessor bilan ishlashni usuli. Bunda ko’p protsessorlar orasida bitta vazifani turli qismlarga bo’lish orqali dasturni ishga tushirish vaqtini kamaytiradi.",
+            "real vaqt rejimida ko’plab manbalardan keladigan birnechta ma’lumotlar oqimini tahlil qilish uchun yuqori ko’rsatgichli kompyuter tizimlarda foydalaniladi.",
+            "To’g’ri javob berilmagan"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Oqimli ishlov berish/hisoblashga berilgan qaysi ta'rif to'g'ri?",
+        "options": [
+            "real vaqt rejimida ko’plab manbaсlardan keladigan bir nechta ma’lumotlar oqimini tahlil qilish uchun yuqori ko’rsatgichli kompyuter tizimlarda foydalaniladi.",
+            "ham parallel hisoblash modeli ham dasturlash modeli bo’lib, xotira adresiga qaraganda ma'lumotlar uchun parallel dasturlashdan foydalanishni va xotirada ma'lumotlarni tarkibini qidirish qobiliyatini o'z ichiga oladi.",
+            "umumiy vazifani alohida qismlarini bajarish uchun ikki yoki undan ko’p protsessor bilan ishlashni usuli. Bunda ko’p protsessorlar orasida bitta vazifani turli qismlarga bo’lish orqali dasturni ishga tushirish vaqtini kamaytiradi.",
+            "To’g’ri javob berilmagan"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Komp'yuter arxitekturasi deb nimaga aytiladi?",
+        "options": [
+            "axborotni qayta ishlashga mo'ljallangan, ma'lumotlarga ishlov berish usullarini o'z ichiga olgan, apparat va dasturiy ta'minotning o'rtasidagi o'zaro bog'liqlikni taminlovchi konseptual' tuzilishiga aytiladi.",
+            "protsessorning buyruqlar to'plami arxitekturasini yaratish usuliga aytiladi  (SPARC, x86, ... va hokazo).",
+            "kompyuter arxitekturasining dasturlashga javob beruvchi mikroprotsessor yadrosi qismiga aytiladi.",
+            "hisoblash mashinasining  asosiy tarkibiy qismi bo'lib uning keyingi arxitekturasini aniqlaydi va  IT- mutaxassislar uchun amaliy qo'llanish yo'lanishini aniqlaydi."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Mikroarxitektura deb nimaga aytiladi?",
+        "options": [
+            "protsessorning buyruqlar to'plami arxitekturasini yaratish usuliga aytiladi  (SPARC, x86, ... va hokazo).",
+            "axborotni qayta ishlashga mo'ljallangan, ma'lumotlarga ishlov berish usullarini o'z ichiga olgan, apparat va dasturiy ta'minotning o'rtasidagi o'zaro bog'liqlikni taminlovchi konseptual' tuzilishiga aytiladi.",
+            "kompyuter arxitekturasining dasturlashga javob beruvchi mikroprotsessor yadrosi qismiga aytiladi.",
+            "hisoblash mashinasining  asosiy tarkibiy qismi bo'lib uning keyingi arxitekturasini aniqlaydi va  IT- mutaxassislar uchun amaliy qo'llanish yo'lanishini aniqlaydi."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Buyruqlar to'plami arxitekturasi deb nimaga aytiladi?",
+        "options": [
+            "kompyuter arxitekturasining dasturlashga javob beruvchi mikroprotsessor yadrosi qismiga aytiladi.",
+            "hisoblash mashinasining  asosiy tarkibiy qismi bo'lib uning keyingi arxitekturasini aniqlaydi va  IT- mutaxassislar uchun amaliy qo'llanish yo'lanishini aniqlaydi.",
+            "protsessorning buyruqlar to'plami arxitekturasini yaratish usuliga aytiladi  (SPARC, x86, ... va hokazo).",
+            "axborotni qayta ishlashga mo'ljallangan, ma'lumotlarga ishlov berish usullarini o'z ichiga olgan, apparat va dasturiy ta'minotning o'rtasidagi o'zaro bog'liqlikni taminlovchi konseptual' tuzilishiga aytiladi."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Protsessor arxitekturasi nimaga aytiladi?",
+        "options": [
+            "hisoblash mashinasining  asosiy tarkibiy qismi bo'lib uning keyingi arxitekturasini aniqlaydi va  IT- mutaxassislar uchun amaliy qo'llanish yo'lanishini aniqlaydi.",
+            "kompyuter arxitekturasining dasturlashga javob beruvchi mikroprotsessor yadrosi qismiga aytiladi.",
+            "protsessorning buyruqlar to'plami arxitekturasini yaratish usuliga aytiladi  (SPARC, x86, ... va hokazo).",
+            "axborotni qayta ishlashga mo'ljallangan, ma'lumotlarga ishlov berish usullarini o'z ichiga olgan, apparat va dasturiy ta'minotning o'rtasidagi o'zaro bog'liqlikni taminlovchi konseptual' tuzilishiga aytiladi."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Napier suyiklari hisoblash moslamasini qachon ixtiro qilingan?",
+        "options": [
+            "Shotlandiyalik olim 1617 yilda",
+            "1642-yilda fransuz olimi",
+            "1671 yilda nemis matematigi",
+            "1833 yilda Angliyalik olim"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Paskal kalkulyatori hisoblash moslamasini qachon ixtiro qilingan?",
+        "options": [
+            "1642-yilda fransuz olimi",
+            "1671 yilda nemis matematigi",
+            "1833 yilda Angliyalik olim",
+            "Shotlandiyalik olim 1617 yilda"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Leibnz kalkulyatori hisoblash moslamasini qachon ixtiro qilingan?",
+        "options": [
+            "1671 yilda nemis matematigi",
+            "1833 yilda Angliyalik olim",
+            "Shotlandiyalik olim 1617 yilda",
+            "1642-yilda fransuz olimi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Analitik dvigatel hisoblash moslamasi qachon ixtiro qilingan?",
+        "options": [
+            "1833 yilda Angliyalik olim",
+            "Shotlandiyalik olim 1617 yilda",
+            "1642-yilda fransuz olimi",
+            "1671 yilda nemis matematigi"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuterlarning birinchi avlodi nechanchi yillarga to’g’ri keladi va u nimalardan tashkil topgan?",
+        "options": [
+            "1940-1950 yillar: (Vakuumli quvurlar va plaginlar)",
+            "1950-1960 yillar: (Tranzistorlar va partiyalarni topshirish)",
+            "1960-1970 yillar (Integratsiyalashgan sxemalar va ko‘p dasturlash)",
+            "1970-yillardan hozirgi kungacha (Mikroprotsessor, operatsion tizim va grafik interfeys)"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Kompyuterlarning ikkinchi avlodi nechanchi yillarga to’g’ri keladi va u nimalardan tashkil topgan?",
+        "options": [
+            "1950-1960 yillar: (Tranzistorlar va partiyalarni topshirish)",
+            "1960-1970 yillar (Integratsiyalashgan sxemalar va ko‘p dasturlash)",
+            "1970-yillardan hozirgi kungacha (Mikroprotsessor, operatsion tizim va grafik interfeys)",
+            "1940-1950 yillar: (Vakuumli quvurlar va plaginlar)"
+        ],
+        "correct_answer": 0
+    }
+]
